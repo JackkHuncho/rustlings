@@ -1,6 +1,7 @@
 fn main() {
     // TODO: Add the missing keyword.
-    x = 5;
+    let x:i8 = 5;
 
     println!("x has the value {x}");
+    println!("\nAnd x is a i8 integer");
 }
